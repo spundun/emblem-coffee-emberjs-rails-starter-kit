@@ -18,9 +18,10 @@
 //= require ember-data
 //= require_self
 //= require emblem_coffee_rails_starter_kit
+//= require app
 
 // for more details see: http://emberjs.com/guides/application/
-EmblemCoffeeEmberjsRailsStarterKit = Ember.Application.create();
+App = Ember.Application.create();
 
 // Spundun:
 // `rails g ember:bootstrap` bumped the following require_tree command below a line of javascript.
