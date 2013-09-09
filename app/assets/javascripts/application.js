@@ -17,7 +17,6 @@
 //= require ember
 //= require ember-data
 //= require_self
-//= require emblem_coffee_rails_starter_kit
 //= require app
 
 // for more details see: http://emberjs.com/guides/application/
