@@ -1,3 +1,4 @@
+`
 App.Router.map(function() {
   // put your routes here
 });
@@ -7,3 +8,4 @@ App.IndexRoute = Ember.Route.extend({
     return ['red', 'yellow', 'blue'];
   }
 });
+`
